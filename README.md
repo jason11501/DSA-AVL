@@ -5,6 +5,11 @@ Gồm những tính năng (features):
 * Delete
 * Rotate
 * Traversal (NLR, LNR, LRN)
+* Least common ancestor/ Lowest common ancestor
+* Check all leaves of a AVL tree have the same depth
+* Calculate tree height
+* Check a value is exist in tree
+* Pre-order array to Binary Search Tre (BST)
 
 Ngoài ra, code còn sử dụng thêm một số kiến thức của Nhập môn lập trình:
 * Read file với sstream library
