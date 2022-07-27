@@ -1,6 +1,5 @@
-# DSA-AVL
 ## Data Structure - Cấu trúc dữ liệu và giải thuật - week 09 - lab 07
-## Balanced Binary Search Tree (AVL)<br>
+# Balanced Binary Search Tree (AVL)<br>
 Gồm những tính năng (features):
 * Insert
 * Delete
